@@ -4,8 +4,8 @@ Here is the data that was extracted and used while analyzing the DFRWS Challenge
 
 ---
 ### Reference
--Paper-  
-<span style="font-size: 12px; color: green">*[ACSAC ICSS'23] vPLC: A scalable PLC testbed for IIoT security research*<\span>  
+#### Paper
+*[ACSAC ICSS'23] vPLC: A scalable PLC testbed for IIoT security research* 
 *[DFRWS'23] PREE: Heuristic Builder for Reverse Engineering of Network Protocols in Industrial Control Systems*  
 *[IEEE HOST'23] Gadgets of Gadgets in Industrial Control Systems: Return Oriented Programming Attacks on PLCs*  
 *[DFRWS'23] Towards generic memory forensic framework for programmable logic controllers*  
@@ -16,5 +16,5 @@ Here is the data that was extracted and used while analyzing the DFRWS Challenge
 *[CODASPY'18] Denial of Engineering Operations Attacks in Industrial Control Systems*  
 *[IEEE S&P J.'17] Programmable Logic Controller Forensics*  
   
--Standard-  
+#### Standard  
 *[Standard] IEC 61131-3*
