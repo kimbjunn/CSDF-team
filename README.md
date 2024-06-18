@@ -3,7 +3,6 @@
 
 Here is the data that was extracted and used while analyzing the DFRWS Challenge 2023.
 
----
 ### Reference
 #### Paper
 *[ACSAC ICSS'23] vPLC: A scalable PLC testbed for IIoT security research*  
